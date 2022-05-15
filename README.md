@@ -1,1 +1,1 @@
-# authorization API - rails and firebase
+# auth API - rails and firebase
